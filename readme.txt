@@ -20,16 +20,5 @@ FIRST Download
 
 6. Import olms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/OLMS
+7.Run the script http://localhost/LMS
 
-
-**LOGIN DETAILS** 
-
-for user create or student
-
-Admin
-user: admin@example.com
-pass: admin
-
-****** https://www.alphacodecamp.com.ng/ ******
-Subcribe my Youtube Channel **** alphacodecamp ****
